@@ -14,8 +14,8 @@ Copy this files to that folder.
 
 
 Next step is to modify in the pool the config.js file this two lines acording with your ip or domain name
- "blockchainExplorer": "http://***.***.***.***/AMX-explorer/index.php?search={id}"
- "transactionExplorer": "http://***.***.***.***/AMX-explorer/index.php?search={id}"
+ "blockchainExplorer": "http://***.***.***.***/AMX-explorer/index.php?search={id}",
+ "transactionExplorer": "http://***.***.***.***/AMX-explorer/index.php?search={id}",
  
 
 The last step is launching the pool andnow you have acces to the block explorer from the web interface of 
